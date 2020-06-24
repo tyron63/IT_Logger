@@ -1,0 +1,47 @@
+{
+  "logs": [
+    {
+      "message": "installed new software on server 207",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "data": "2020-06-23T23:09:19.679Z",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "message": "server 015 are Fixed",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2020-06-24T00:22:01.296Z"
+    },
+    {
+      "message": "test run 3",
+      "attention": true,
+      "tech": "Sam Smith",
+      "data": "2020-06-24T00:21:31.204Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "Tyron",
+      "lastName": "Keet",
+      "id": 4
+    }
+  ]
+}
