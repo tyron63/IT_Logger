@@ -2,8 +2,26 @@ body {
     background-image: url(https://image.freepik.com/free-vector/vector-technology-design-dark-blue-color-background_43778-490.jpg);
 }
 .container{
-      background-color: #0b0eeb2a;
-      border: 2px solid #141414;
-      box-shadow: 0 0 0.1px 0.1px #141414;
-      border-radius: 10px;
+    background-color: #0b0eeb2a;
+    border: 2px solid #141414;
+    box-shadow: 0 0 0.1px 0.1px #141414;
+    border-radius: 10px;
+}
+
+@font-face {
+    font-family: myFirstFont;
+    src: url(Inversionz.otf);
+}
+@font-face {
+    font-family: mySecondFont;
+    src: url(auto-techno.ttf);
+}
+  
+h4.center {
+    font-family: myFirstFont;
+    font-size: 3em;
+}
+h4 {
+    font-family: mySecondFont;
+    font-size: 2em;
 }
